@@ -48,3 +48,6 @@ The project demonstrates how each algorithm handles process scheduling, with a f
 ### 8. Longest Remaining Time First (LRTF)
 - **Description**: Preemptive version of LJF where the process with the longest remaining time is scheduled next.
 - **Characteristics**: Similar issues to LJF, with additional overhead due to preemption.
+
+## ScreenShots:
+![Screenshot 1](https://github.com/Kathankathrotiya/CPU-Scheduling-Algorithms-Simulation/blob/main/Screenshot%202024-05-29%20121009.png)
