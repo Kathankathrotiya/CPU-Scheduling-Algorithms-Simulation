@@ -1,0 +1,17 @@
+			*** Longest Job First ***
+Gantt Chart
+02	03	04	05	06	07	08	09	10	11	12	13	14	15	16	17	18	19	20	21	22	23	
+P1	P1	P1	P1	P1	P1	P3	P3	P3	P3	P0	P0	P0	P0	P0	P0	P0	P0	P0	P0	P2	P2	
+
+			 The Process Status 
+
+Process ID        Arrival Time          Burst Time     Completion Time    Turn Around Time        Waiting Time
+0                  10                  10                  21                  11                   1
+1                   1                   6                   7                   6                   0
+2                   3                   2                  23                  20                  18
+3                   5                   4                  11                   6                   2
+
+		Average Waiting Time: 5.25
+		Average Turn Around Time: 10.75
+
+
